@@ -14,7 +14,7 @@ Message clé à illustrer dans vos livrables:
 ├─ report.pdf        
 ├─ XAI_Project.ipynb
 └─ README.md                  # Ce fichier
-
+```
 
 ## Prérequis
 
