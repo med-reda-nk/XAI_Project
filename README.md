@@ -11,7 +11,7 @@ Message clé à illustrer dans vos livrables:
 
 ```
 .
-├─ report.pdf        
+├─ rapport.pdf        
 ├─ XAI_Project.ipynb
 └─ README.md                  # Ce fichier
 ```
