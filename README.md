@@ -109,12 +109,3 @@ Message à marteler:
 - [ ] PDP 2D pour au moins une paire (interaction) + interprétation.
 - [ ] (Option) c-ICE par sous-groupes pour illustrer des pentes distinctes.
 
----
-
-## Références
-
-- Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine.
-- Goldstein, A., Kapelner, A., Bleich, J., Pitkin, E. (2015). Peeking Inside the Black Box: ICE.
-- Apley, D. W., Zhu, J. (2020). Visualizing the Effects of Predictor Variables (ALE).
-- Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python.
-- Chen, T., Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System.
