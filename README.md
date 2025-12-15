@@ -99,13 +99,5 @@ Message à marteler:
 - Temps d’exécution long:
   - Diminuez n_estimators, utilisez tree_method="hist" avec XGBoost, réduisez grid_resolution, et sous-échantillonnez pour ICE.
 
----
 
-## Checklist des éléments Présent dans le notebook
-
-- [ ] Modèle non linéaire entraîné et évalué (scores reportés).
-- [ ] Top-10 permutation importance + justification des 2–3 features retenues.
-- [ ] PDP+ICE 1D pour 2–3 variables clés, commentaires “moyenne vs individus”.
-- [ ] PDP 2D pour au moins une paire (interaction) + interprétation.
-- [ ] (Option) c-ICE par sous-groupes pour illustrer des pentes distinctes.
 
