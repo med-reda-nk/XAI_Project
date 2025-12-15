@@ -13,8 +13,8 @@ Message clé à illustrer dans vos livrables:
 
 ```
 .
-├─ rapport.pdf        
-├─ XAI_Project_notebook.ipynb
+├─ rapport_projet.pdf        
+├─ XAI_Project_notebook_Nkira_MR.ipynb
 └─ README.md                  # Ce fichier
 ```
 
