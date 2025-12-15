@@ -14,7 +14,7 @@ Message clé à illustrer dans vos livrables:
 ```
 .
 ├─ rapport_projet.pdf        
-├─ XAI_Project_notebook_Nkira_MR.ipynb
+├─ XAI_Mini_Project_10_Nkira_MR.ipynb
 └─ README.md                  # Ce fichier
 ```
 
