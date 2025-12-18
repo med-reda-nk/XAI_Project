@@ -22,7 +22,6 @@ Message clé à illustrer dans vos livrables:
 
 - Python 3.9–3.12
 - pip ou conda
-- Outils LaTeX (pdflatex + bibtex/biber) pour compiler le rapport et les slides
 
 Python packages:
 - scikit-learn ≥ 1.2
@@ -93,8 +92,6 @@ Message à marteler:
 - partial_dependence indisponible/dépréciée:
   - Solution: utilisez PartialDependenceDisplay.from_estimator pour les tracés; la récupération programmatique des ICE (pour c-ICE) peut nécessiter un fallback ou une lib tierce (PyALE, alibi).
 
-- Figures manquantes dans le PDF:
-  - Vérifiez le chemin des images (report/figures/ vs scripts/figures/). Adaptez \includegraphics ou déplacez les PNG dans report/figures/.
 
 - Temps d’exécution long:
   - Diminuez n_estimators, utilisez tree_method="hist" avec XGBoost, réduisez grid_resolution, et sous-échantillonnez pour ICE.
