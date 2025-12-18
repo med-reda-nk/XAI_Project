@@ -2,7 +2,7 @@
 
 [Presentation](https://www.canva.com/design/DAG7JOxYM4M/Lmj21KX6VfEz-QfaXb2qrA/edit?utm_content=DAG7JOxYM4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Ce dépôt accompagne un projet d’explicabilité de modèles non linéaires (Random Forest / XGBoost) sur données tabulaires à l’aide des Partial Dependence Plots (PDP) et Individual Conditional Expectation (ICE). Il contient un rapport LaTeX prêt à compiler, un deck Beamer, et des scripts Python pour entraîner le modèle et générer les figures.
+Ce dépôt accompagne un projet d’explicabilité de modèles non linéaires (Random Forest / XGBoost) sur données tabulaires à l’aide des Partial Dependence Plots (PDP) et Individual Conditional Expectation (ICE).
 
 Message clé à illustrer dans vos livrables:
 - Le PDP (moyenne) peut lisser/masquer des effets hétérogènes que les courbes ICE révèlent au niveau individuel; les PDP 2D aident à exposer les interactions responsables de ces hétérogénéités.
